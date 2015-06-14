@@ -1,0 +1,20 @@
+{
+  "name": "cc-icons",
+  "version": "1.0.0",
+  "description": "A creative commons icon font",
+  "main": "./css/css-icons.css",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-rename": "^0.1.4",
+    "grunt-update-json": "^0.2.1",
+    "grunt-webfont": "^0.5.2"
+  },
+  "keywords": [
+    "font",
+    "icons",
+    "cc",
+    "creative commons"
+  ],
+  "author": "Matthias Pfefferle",
+  "license": "OFL-1.1"
+}

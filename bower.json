@@ -1,0 +1,1 @@
+{"name":"cc-icons","version":"1.0.0","main":"./css/css-icons.css","ignore":["node_modules","svg","template",".DS_Store",".editorconfig",".gitignore",".npmignore",".jscsrc",".jshintrc","bower.json","component.json","composer.json","Gruntfile.js","package.json","README.md","index.html"],"description":"A creative commons icon font"}

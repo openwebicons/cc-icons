@@ -1,0 +1,11 @@
+{
+	"preset": "google",
+	"fileExtensions": [ ".js", "jscs" ],
+	"validateIndentation": "\t",
+	"disallowKeywords": ["with"],
+	"safeContextKeyword": "self",
+	"disallowMixedSpacesAndTabs": true,
+	"maximumLineLength": 400,
+	"requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
+	"excludeFiles": [ ]
+}
