@@ -4,7 +4,7 @@
   "description": "A creative commons icon font",
   "main": "./css/css-icons.css",
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": ">=1.5.3",
     "grunt-rename": "^0.1.4",
     "grunt-update-json": "^0.2.1",
     "grunt-webfont": "^1.7.2"
